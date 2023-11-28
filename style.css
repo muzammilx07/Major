@@ -39,6 +39,7 @@ nav {
   padding: 0.5rem 15rem;
   align-items: center;
   background-color: #113448;
+  z-index: 10000;
 }
 nav img {
   height: 4rem;
